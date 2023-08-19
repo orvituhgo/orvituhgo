@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitor Hugo</h1>
 <h3 align="center">A one half of full stack developer who knows until now frontend ¯\_( •︠ ω ︡•)_/¯</h3>
 
-<hr>
 
 - 🌱 I’m currently learning **Node.js and C#**
 
