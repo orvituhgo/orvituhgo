@@ -2,7 +2,7 @@
 <h3 align="center">A one half of full stack developer who knows until now frontend ( •︠ ω ︡•)</h3>
 
 
-- 🌱 I’m currently learning **Node.js and C#**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m currently collaborate on [AIDY Health](https://aidy.health/)
 
