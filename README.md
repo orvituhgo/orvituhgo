@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Node.js**
 
+- 💼 I’m currently working at [Growth Hack Group](https://www.growthackgroup.com/)
+
 - 👯 I’m currently collaborate on [AIDY Health](https://aidy.health/)
 
 - 📫 How to reach me **orvituhgo@gmail.com**
