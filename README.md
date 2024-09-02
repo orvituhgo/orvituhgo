@@ -2,7 +2,7 @@
 <h3 align="center">A one half of full stack developer who knows until now frontend ( •︠ ω ︡•)</h3>
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Golang**
 
 - 💼 I’m currently working at [Growth Hack Group](https://www.growthackgroup.com/)
 
